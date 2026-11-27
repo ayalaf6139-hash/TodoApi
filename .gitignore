@@ -1,0 +1,7 @@
+bin/
+obj/
+.vs/
+.vscode/
+
+# סודות מקומיים (סיסמת מסד נתונים ומפתח JWT) - לא עולים ל-GitHub
+appsettings.Development.json
